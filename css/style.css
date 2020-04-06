@@ -1,0 +1,36 @@
+body{
+    background: rgba(231, 190, 190, 0.733);
+    margin-left: 100px;
+    margin-right:200px;
+}
+
+header{ 
+    margin-top: 60px;
+}
+
+h1{
+    color: rgba(12, 114, 85, 0.993);
+    font-family: Georgia;
+}
+
+h2{
+    color: rgb(9, 128, 92);
+    font-family: Georgia;
+}
+
+p{
+    font-size: 18px;
+}
+
+footer{
+    margin-bottom: 30px;
+}
+
+.img_padrão{
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.logo{
+    width: 30px;
+}
